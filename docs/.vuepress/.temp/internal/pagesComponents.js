@@ -5,12 +5,12 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/luyaoshoot/Desktop/luyao-pilgrim.github.io/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /css_html/
   "v-6a8b59cf": defineAsyncComponent(() => import(/* webpackChunkName: "v-6a8b59cf" */"C:/Users/luyaoshoot/Desktop/luyao-pilgrim.github.io/docs/.vuepress/.temp/pages/css_html/index.html.vue")),
-  // path: /js/
-  "v-2d0a9a6d": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0a9a6d" */"C:/Users/luyaoshoot/Desktop/luyao-pilgrim.github.io/docs/.vuepress/.temp/pages/js/index.html.vue")),
   // path: /react/Hi.html
   "v-4ee5556f": defineAsyncComponent(() => import(/* webpackChunkName: "v-4ee5556f" */"C:/Users/luyaoshoot/Desktop/luyao-pilgrim.github.io/docs/.vuepress/.temp/pages/react/Hi.html.vue")),
   // path: /react/
   "v-dc3b2a6e": defineAsyncComponent(() => import(/* webpackChunkName: "v-dc3b2a6e" */"C:/Users/luyaoshoot/Desktop/luyao-pilgrim.github.io/docs/.vuepress/.temp/pages/react/index.html.vue")),
+  // path: /js/
+  "v-2d0a9a6d": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0a9a6d" */"C:/Users/luyaoshoot/Desktop/luyao-pilgrim.github.io/docs/.vuepress/.temp/pages/js/index.html.vue")),
   // path: /vue/
   "v-744e35e2": defineAsyncComponent(() => import(/* webpackChunkName: "v-744e35e2" */"C:/Users/luyaoshoot/Desktop/luyao-pilgrim.github.io/docs/.vuepress/.temp/pages/vue/index.html.vue")),
   // path: /webpack/
