@@ -3,12 +3,12 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/luyaoshoot/Desktop/luyao-pilgrim.github.io/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /css_html/
   "v-6a8b59cf": () => import(/* webpackChunkName: "v-6a8b59cf" */"C:/Users/luyaoshoot/Desktop/luyao-pilgrim.github.io/docs/.vuepress/.temp/pages/css_html/index.html.js").then(({ data }) => data),
-  // path: /js/
-  "v-2d0a9a6d": () => import(/* webpackChunkName: "v-2d0a9a6d" */"C:/Users/luyaoshoot/Desktop/luyao-pilgrim.github.io/docs/.vuepress/.temp/pages/js/index.html.js").then(({ data }) => data),
   // path: /react/Hi.html
   "v-4ee5556f": () => import(/* webpackChunkName: "v-4ee5556f" */"C:/Users/luyaoshoot/Desktop/luyao-pilgrim.github.io/docs/.vuepress/.temp/pages/react/Hi.html.js").then(({ data }) => data),
   // path: /react/
   "v-dc3b2a6e": () => import(/* webpackChunkName: "v-dc3b2a6e" */"C:/Users/luyaoshoot/Desktop/luyao-pilgrim.github.io/docs/.vuepress/.temp/pages/react/index.html.js").then(({ data }) => data),
+  // path: /js/
+  "v-2d0a9a6d": () => import(/* webpackChunkName: "v-2d0a9a6d" */"C:/Users/luyaoshoot/Desktop/luyao-pilgrim.github.io/docs/.vuepress/.temp/pages/js/index.html.js").then(({ data }) => data),
   // path: /vue/
   "v-744e35e2": () => import(/* webpackChunkName: "v-744e35e2" */"C:/Users/luyaoshoot/Desktop/luyao-pilgrim.github.io/docs/.vuepress/.temp/pages/vue/index.html.js").then(({ data }) => data),
   // path: /webpack/
