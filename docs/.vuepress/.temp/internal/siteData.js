@@ -1,14 +1,1 @@
 export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"陆遥的博客\",\"description\":\"JavaScript，Vue，React，Webpack，HTML，CSS等技术分享\",\"head\":[[\"script\",{},\"\\n          var _hmt = _hmt || [];\\n          (function() {\\n            var hm = document.createElement(\\\"script\\\");\\n            hm.src = \\\"https://hm.baidu.com/hm.js?831c09097cdcc6b28d4d8b82e7a2603b\\\";\\n            var s = document.getElementsByTagName(\\\"script\\\")[0]; \\n            s.parentNode.insertBefore(hm, s);\\n          })();\\n        \"],[\"meta\",{\"name\":\"author\",\"content\":\"ayao\"}],[\"meta\",{\"name\":\"keywords\",\"content\":\"前端全栈知识体系， JavaScript， Vue， react， webpack， HTML， CSS，JavaScript算法\"}]],\"locales\":{}}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateSiteData) {
-    __VUE_HMR_RUNTIME__.updateSiteData(siteData)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ siteData }) => {
-    __VUE_HMR_RUNTIME__.updateSiteData(siteData)
-  })
-}
