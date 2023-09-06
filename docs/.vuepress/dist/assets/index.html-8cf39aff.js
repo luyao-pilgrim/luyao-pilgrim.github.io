@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-dc3b2a6e","path":"/react/","title":"TEST","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1693984008000,"contributors":[{"name":"LuYao-pilgrim","email":"luyao_shoottheball@163.com","commits":1}]},"filePathRelative":"react/README.md"}');export{t as data};
