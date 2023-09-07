@@ -1,4 +1,4 @@
-## 手写instanceOf
+# 手写instanceOf
 
 ```javascript
 const myInstance = (obj, func) => {

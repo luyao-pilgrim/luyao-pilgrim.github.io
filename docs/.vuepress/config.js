@@ -105,9 +105,9 @@ module.exports = {
         '/hand-writting/': [
           {
               title: 'JS手撕',
-              collapsible: false,
+              collapsible: true,
               children: [
-                  '/hand-writting/',
+                  // '/hand-writting/',
                   '/hand-writting/eventBus.md',
                   '/hand-writting/curry.md',
                   '/hand-writting/debounce_throttle.md',
@@ -116,7 +116,15 @@ module.exports = {
                   '/hand-writting/myCallApplyBind.md',
                   '/hand-writting/controlRequest.md',
               ],
-          }
+          },
+          {
+            title: '排序算法',
+            collapsible: true,
+            children: [
+                // '/hand-writting/',
+                '/hand-writting/quickSort.md',
+            ],
+        }
       ],
     }
   }),
