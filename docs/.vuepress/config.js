@@ -97,6 +97,7 @@ module.exports = {
               title: 'JS手撕',
               collapsible: false,
               children: [
+                  '/手撕+算法/',
                   '/手撕+算法/eventBus.md',
                   '/手撕+算法/curry.md',
                   '/手撕+算法/debounce_throttle.md',
