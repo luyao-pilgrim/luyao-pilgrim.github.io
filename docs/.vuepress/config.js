@@ -92,6 +92,16 @@ module.exports = {
                 ],
             }
         ],
+        '/js/': [
+          {
+              title: 'Javascript',
+              collapsible: false,
+              children: [
+                  '/js/',
+                  '/js/qa.md'
+              ],
+          }
+      ],
         '/手撕+算法/': [
           {
               title: 'JS手撕',
@@ -101,6 +111,10 @@ module.exports = {
                   '/手撕+算法/eventBus.md',
                   '/手撕+算法/curry.md',
                   '/手撕+算法/debounce_throttle.md',
+                  '/手撕+算法/myNew.md',
+                  '/手撕+算法/myInstance.md',
+                  '/手撕+算法/myCallApplyBind.md',
+                  '/手撕+算法/controlRequest.md',
               ],
           }
       ],
