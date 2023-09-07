@@ -115,17 +115,10 @@ module.exports = {
                   '/hand-writting/myInstance.md',
                   '/hand-writting/myCallApplyBind.md',
                   '/hand-writting/controlRequest.md',
+                  '/hand-writting/sort.md',
               ],
           },
-          {
-            title: '排序算法',
-            collapsible: false,
-            children: [
-                // '/hand-writting/',
-                '/hand-writting/quickSort.md',
-            ],
-        }
-      ],
+        ],
     }
   }),
 };
