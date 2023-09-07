@@ -62,7 +62,7 @@ module.exports = {
       },
       {
         text: '手撕+算法',
-        link: '/手撕+算法/',
+        link: '/hand-writting/',
       },
       {
         text: 'CSS+HTML',
@@ -101,20 +101,20 @@ module.exports = {
                   '/js/qa.md'
               ],
           }
-      ],
-        '/手撕+算法/': [
+        ],
+        '/hand-writting/': [
           {
               title: 'JS手撕',
               collapsible: false,
               children: [
-                  '/手撕+算法/',
-                  '/手撕+算法/eventBus.md',
-                  '/手撕+算法/curry.md',
-                  '/手撕+算法/debounce_throttle.md',
-                  '/手撕+算法/myNew.md',
-                  '/手撕+算法/myInstance.md',
-                  '/手撕+算法/myCallApplyBind.md',
-                  '/手撕+算法/controlRequest.md',
+                  '/hand-writting/',
+                  '/hand-writting/eventBus.md',
+                  '/hand-writting/curry.md',
+                  '/hand-writting/debounce_throttle.md',
+                  '/hand-writting/myNew.md',
+                  '/hand-writting/myInstance.md',
+                  '/hand-writting/myCallApplyBind.md',
+                  '/hand-writting/controlRequest.md',
               ],
           }
       ],
