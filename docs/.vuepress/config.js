@@ -58,15 +58,15 @@ module.exports = {
       },
       {
         text: 'Javascript',
-        link: '/js',
+        link: '/js/',
       },
       {
         text: '手撕+算法',
-        link: '/手撕+算法',
+        link: '/手撕+算法/',
       },
       {
         text: 'CSS+HTML',
-        link: '/css+html',
+        link: '/css+html/',
       },
       {
         text: 'React',
@@ -74,11 +74,11 @@ module.exports = {
       },
       {
         text: 'Vue',
-        link: '/vue',
+        link: '/vue/',
       },
       {
         text: 'Webpack',
-        link: '/webpack',
+        link: '/webpack/',
       },
     ],
     sidebar: {
