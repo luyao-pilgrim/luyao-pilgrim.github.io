@@ -61,6 +61,10 @@ module.exports = {
         link: '/js/',
       },
       {
+        text: '面试',
+        link: '/interview/',
+      },
+      {
         text: '手撕+算法',
         link: '/hand-writting/',
       },
@@ -99,6 +103,16 @@ module.exports = {
               children: [
                   '/js/',
                   '/js/qa.md'
+              ],
+          }
+        ],
+        '/interview/': [
+          {
+              title: '面试',
+              collapsible: false,
+              children: [
+                  '/interview/',
+                  '/interview/2023fall.md'
               ],
           }
         ],
