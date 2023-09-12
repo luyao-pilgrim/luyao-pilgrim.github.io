@@ -1,20 +1,20 @@
 ---
 home: true
 lang: zh-CN
-heroText: 记录生活，记录技术
+heroText: Alawys Exploring
 heroImage: /luyao_small.jpg
-actionText: 重新出发 ->
+actionText: Start ->
 actionLink: /
 features:
 - title: JavaScript
-  details: 重新学习JavaScript，记录学习过程及分享。
+  details: My JavaScript Learning Route。
 - title: React 
-  details: 记录学习 react 知识及分享。
+  details: My React knowledge。
 - title: Vue
-  details: 记录学习 Vue 知识及分享。
-- title: JavaScript 算法与数据结构
-  details: 学习 JavaScript 算法与数据结构，记录学习过程及分享。
+  details: My Vue knowledge。
+- title: JavaScript Algorithm
+  details: Data structure and Algorithm。
 - title: CSS
-  details: CSS知识及CSS相关的面试题答案。
+  details: something about CSS 。
 footer: Copyright © 2023 LuYao
 ---

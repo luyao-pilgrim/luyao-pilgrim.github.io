@@ -92,7 +92,10 @@ module.exports = {
                 collapsible: false,
                 children: [
                     '/react/',
-                    '/react/Hi.md'
+                    '/react/fiber.md',
+                    '/react/diff.md',
+                    '/react/hooks.md',
+                    '/react/redux.md',
                 ],
             }
         ],
@@ -102,7 +105,7 @@ module.exports = {
               collapsible: false,
               children: [
                   '/js/',
-                  '/js/qa.md'
+                  '/js/bigfile.md'
               ],
           }
         ],
@@ -113,6 +116,17 @@ module.exports = {
               children: [
                   '/interview/',
                   '/interview/2023fall.md'
+              ],
+          }
+        ],
+        '/css+html/': [
+          {
+              title: 'CSS+HTML',
+              collapsible: false,
+              children: [
+                  '/css+html/',
+                  '/css+html/reflow-repaint.md',
+                  '/css+html/animation.md',
               ],
           }
         ],
