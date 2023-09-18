@@ -61,8 +61,8 @@ module.exports = {
         link: '/js/',
       },
       {
-        text: '面试',
-        link: '/interview/',
+        text: 'http',
+        link: '/http/',
       },
       {
         text: '手撕+算法',
