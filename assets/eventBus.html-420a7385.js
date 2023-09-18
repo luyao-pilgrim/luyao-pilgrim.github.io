@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-462675fd","path":"/hand-writting/eventBus.html","title":"发布订阅","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"on, off, emit, once四种方法","slug":"on-off-emit-once四种方法","link":"#on-off-emit-once四种方法","children":[]}],"git":{},"filePathRelative":"hand-writting/eventBus.md"}');export{e as data};

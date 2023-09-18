@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0b05118e","path":"/hand-writting/myCallApplyBind.html","title":"手写Call. Apply, Bind","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"hand-writting/myCallApplyBind.md"}');export{t as data};

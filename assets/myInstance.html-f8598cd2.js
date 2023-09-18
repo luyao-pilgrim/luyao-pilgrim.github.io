@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-23e4ef82","path":"/hand-writting/myInstance.html","title":"手写instanceOf","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"hand-writting/myInstance.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-17c8ee08","path":"/hand-writting/curry.html","title":"函数柯里化","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"小进阶-->实现sum(1,2,3,4)(5)(6).sumOf()","slug":"小进阶-实现sum-1-2-3-4-5-6-sumof","link":"#小进阶-实现sum-1-2-3-4-5-6-sumof","children":[]}],"git":{},"filePathRelative":"hand-writting/curry.md"}');export{t as data};

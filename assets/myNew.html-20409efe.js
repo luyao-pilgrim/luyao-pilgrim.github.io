@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b617db4a","path":"/hand-writting/myNew.html","title":"手写new","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"new 的执行过程","slug":"new-的执行过程","link":"#new-的执行过程","children":[]}],"git":{},"filePathRelative":"hand-writting/myNew.md"}');export{e as data};

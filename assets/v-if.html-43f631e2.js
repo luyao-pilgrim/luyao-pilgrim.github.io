@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5e0933e3","path":"/vue/v-if.html","title":"v-if","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"v-if真实的DOM是怎么样子的？","slug":"v-if真实的dom是怎么样子的","link":"#v-if真实的dom是怎么样子的","children":[]}],"git":{},"filePathRelative":"vue/v-if.md"}');export{e as data};

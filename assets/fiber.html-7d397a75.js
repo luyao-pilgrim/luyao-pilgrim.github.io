@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-469522f6","path":"/react/fiber.html","title":"Fiber","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"整体React渲染阶段","slug":"整体react渲染阶段","link":"#整体react渲染阶段","children":[]}],"git":{},"filePathRelative":"react/fiber.md"}');export{e as data};

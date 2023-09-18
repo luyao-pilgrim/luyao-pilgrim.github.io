@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-02e54d60","path":"/js/module.html","title":"模块化,CMD,AMD,UMD,ESmodule之间的区别","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"js/module.md"}');export{e as data};

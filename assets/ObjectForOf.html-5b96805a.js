@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-60bbacf6","path":"/js/ObjectForOf.html","title":"Object的for...of问题","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"js/ObjectForOf.md"}');export{t as data};

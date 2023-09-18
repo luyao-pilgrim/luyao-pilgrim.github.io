@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as s,a as e,b as c}from"./app-5b49b1a3.js";const n={},o=e("h1",{id:"css动画",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#css动画","aria-hidden":"true"},"#"),c(" CSS动画")],-1),r=[o];function _(i,d){return t(),s("div",null,r)}const l=a(n,[["render",_],["__file","animation.html.vue"]]);export{l as default};
