@@ -105,17 +105,19 @@ module.exports = {
               collapsible: false,
               children: [
                   '/js/',
-                  '/js/bigfile.md'
+                  '/js/bigfile.md',
+                  '/js/ObjectForOf.md',
+                  '/js/module.md',
               ],
           }
         ],
-        '/interview/': [
+        '/http/': [
           {
-              title: '面试',
+              title: 'http',
               collapsible: false,
               children: [
-                  '/interview/',
-                  '/interview/2023fall.md'
+                  '/http/',
+                  '/http/cache.md'
               ],
           }
         ],
